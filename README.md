@@ -60,6 +60,11 @@ Then open your browser at http://127.0.0.1:5000 to access the application.
 
 - Click Generate to view your output instantly.
 
+## 🖼️ Flowchart
+
+![AI Text Summarizer Flowchart](https://raw.githubusercontent.com/solaiprakashv/AI_Text_Summarizer/de61cadbf112c52887b8c13edc1149c5e620a3f1/_-%20visual%20selection.png)
+
+
 ## 🤝 Contributing
 - Pull requests are welcome!
 - For major changes, please open an issue first to discuss what you would like to change.
