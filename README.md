@@ -64,10 +64,10 @@ Then open your browser at http://127.0.0.1:5000 to access the application.
 - Pull requests are welcome!
 - For major changes, please open an issue first to discuss what you would like to change.
 
-📄 License
+## 📄 License
 - This project is licensed under the MIT License.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 - Python community for libraries and support
 - Flask for providing a lightweight backend framework
 
